@@ -18,7 +18,7 @@ h1{
     color: cornsilk;
     letter-spacing: 2px;
     word-spacing: 0px;;
-    margin-left: 10px;
+    margin-left: 20px;
 }
 
 h2{
@@ -54,4 +54,11 @@ th ,td{
 }
 a{
     color: blue;
+}
+.tags{
+   color: #eb5e28;
+   background-color: #f5ebe0;
+   padding: 3px;
+   font-family: monospace;
+   font-size: large;
 }
